@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Senai</title>
+</head>
+<body>
+    <nav class="Titulo">
+<img src="download.png" alt="Logo" width="100px" height="50px">
+    </nav>
+    <div class="navbar">
+        <ul class="nav">
+            <li class="ativo">
+                <a href="index.html">Home<span class="sr-only">(Inicio)</span></a>
+            </li>
+            <li class="ativo2">
+                <a href="pag2.html">Cursos</a>
+            </li>
+        </ul>
+    </div>
+
+    <img src="Digitalizado_20250630-1926.jpg" alt="banner" width="1515px" height="250px">
