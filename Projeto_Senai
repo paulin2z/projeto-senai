@@ -22,11 +22,19 @@
 
     <img src="Digitalizado_20250630-1926.jpg" alt="banner" width="1515px" height="250px">
 
+ <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: flex-start; gap: 40px; margin: 30px 0 20px 0;">
+        <div style="width: 400px; text-align: left; font-size: 1.2em; padding: 20px 30px 20px 20px; background: #f5f5f5; border-radius: 10px; box-shadow: 0 2px 8px #0001;">
+            <h2>Sobre o SENAI</h2>
+            <p>O Serviço Nacional de Aprendizagem Industrial (SENAI) é uma das principais instituições de educação profissional do Brasil, oferecendo cursos de formação técnica, qualificação e aperfeiçoamento para a indústria. Com unidades em todo o país, o SENAI contribui para o desenvolvimento de profissionais capacitados, promovendo inovação, tecnologia e empregabilidade no setor industrial.</p>
+        </div>
+
  <div style="display: flex;flex-direction: column;align-items: flex-end; justify-content: flex-end; gap: 20px; margin-top: 20px;">
         <iframe width="300" height="200" src="https://www.youtube.com/embed/KXFZ04FP8F8" title="Senai Video 1" frameborder="0" allowfullscreen></iframe>
         <iframe width="300" height="200" src="https://www.youtube.com/embed/2Vv-BfVoq4g" title="Senai Video 2" frameborder="0" allowfullscreen></iframe>
         <iframe width="300" height="200" src="https://www.youtube.com/embed/3JZ_D3ELwOQ" title="Senai Video 3" frameborder="0" allowfullscreen></iframe>
     </div>
+
+
     <footer>
         <p>Desenvolvido por Paulinho Areias</p>
 </html>
