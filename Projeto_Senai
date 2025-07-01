@@ -21,3 +21,12 @@
     </div>
 
     <img src="Digitalizado_20250630-1926.jpg" alt="banner" width="1515px" height="250px">
+
+ <div style="display: flex;flex-direction: column;align-items: flex-end; justify-content: flex-end; gap: 20px; margin-top: 20px;">
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/KXFZ04FP8F8" title="Senai Video 1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/2Vv-BfVoq4g" title="Senai Video 2" frameborder="0" allowfullscreen></iframe>
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/3JZ_D3ELwOQ" title="Senai Video 3" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <footer>
+        <p>Desenvolvido por Paulinho Areias</p>
+</html>
